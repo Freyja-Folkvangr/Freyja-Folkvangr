@@ -6,14 +6,14 @@
 
 My name is Giuliano I'm a software engineer very passionate about science and tech to empower, elevate people and make everyday things easy. I have a Bachelor's degree in Engineering Science. I enjoy onboarding beginners to the boat and make new friends with a slice of cake, a coffee and my tobacco at the terrace.
 
-Some things I enjoy working with includes Django (Python), CI/CD tools to automate everything and AI.
-
 I also play videogames, feel free to add me to Xbox Live, Steam or Battle.net, Discord (Remember to introduce yourself!)
 
-- XB: Giosan3709
-- Steam: https://steamcommunity.com/id/_giosan/
-- Battle.net: giosan#11623
-- Discord: _gio#4472
+- 🎮 XB: Giosan3709
+- 🎋 Steam: https://steamcommunity.com/id/_giosan/
+- 🚀 Battle: giosan#11623
+- 💬 Discord: _gio#4472
+
+Some things I enjoy working with includes Django (Python), CI/CD tools to automate everything and AI.
 
 - 🌱 I’m currently learning Machine Learning
 - 👯 I’m looking to collaborate on open source projects and be part of a community
