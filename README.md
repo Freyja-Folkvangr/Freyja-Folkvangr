@@ -20,3 +20,7 @@ Some things I enjoy working with includes Django (Python), CI/CD tools to automa
 - 💬 Ask me about Python, Django, AI, infrastructure and DevOps
 - 📫 How to reach me: giuliano150@gmail.com
 - ⚡ Fun fact: My special ability is to convert coffee into code
+
+
+### Email GPG Key here
+https://keys.openpgp.org/search?q=giuliano150%40gmail.com
