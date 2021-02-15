@@ -8,7 +8,6 @@ My name is Giuliano I'm a software engineer very passionate about science and te
 
 I also play videogames, feel free to add me to Xbox Live, Steam or Battle.net, Discord (Remember to introduce yourself!)
 
-- 🎮 XB: Giosan3709
 - 🎋 Steam: https://steamcommunity.com/id/_giosan/
 - 🚀 Battle: giosan#11623
 - 💬 Discord: _gio#4472
