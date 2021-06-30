@@ -15,10 +15,9 @@ I also play videogames, feel free to add me to Xbox Live, Steam or Battle.net, D
 Some things I enjoy working with includes Django (Python), CI/CD tools to automate everything and AI.
 
 - 🌱 I’m currently learning Machine Learning
-- 👯 I’m looking to collaborate on open source projects and be part of a community
+- 👯 I’m looking to collaborate on open source projects
 - 💬 Ask me about Python, Django, AI, infrastructure and DevOps
 - 📫 How to reach me: gio@octocat.xyz
-- ⚡ Fun fact: My special ability is to convert coffee into code
 
 
 ### Email GPG Key here
