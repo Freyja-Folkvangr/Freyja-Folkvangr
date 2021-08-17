@@ -20,5 +20,5 @@ Some things I enjoy working with include Django (Python), CI/CD tools to automat
 - 📫 How to reach me: gio@octocat.xyz
 
 
-### Email GPG Key here
+### Sensitive stuff 👉🏻 email GPG Key here
 https://keys.openpgp.org/search?q=gio%40octocat.xyz
