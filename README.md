@@ -11,6 +11,7 @@ I also play videogames, feel free to add me to Xbox Live, Steam or Battle.net, D
 - 🎋 Steam: https://steamcommunity.com/id/_giosan/
 - 🚀 Battle: giosan#11623
 - 💬 Discord: _gio#4472
+- 🎮 Xbox: giosan8925
 
 Some things I enjoy working with include Django (Python), CI/CD tools to automate everything, and AI.
 
