@@ -6,7 +6,9 @@
 
 My name is Giuliano I'm a software engineer very passionate about science and tech to empower, elevate people and make everyday things easy. I've got a Bachelor's degree in Engineering Science, Computer Science and Telecommunications. I enjoy making new friends and talking random stuff with colleagues with a slice of cake and a coffee at the terrace.
 
-I also play videogames, feel free to add me to Xbox Live, Steam or Battle.net, Discord (Remember to introduce yourself!)
+I also play videogames, feel free to add me to Xbox Live, Steam or Battle.net, Discord
+
+Please, remember to introduce yourself and tell me your intentions (chat, play something, chill, etc), I tend to reject random invites.
 
 - 🎋 Steam: https://steamcommunity.com/id/_giosan/
 - 🚀 Battle: giosan#11623
