@@ -10,7 +10,7 @@ I also play videogames, feel free to add me to Xbox Live, Steam or Battle.net, D
 
 Please, remember to introduce yourself and tell me your intentions (chat, play something, chill, etc), I tend to reject random invites.
 
--  Tumblr: https://evergreen2.tumblr.com
+- 🎭 Tumblr: https://evergreen2.tumblr.com
 - 🎋 Steam: https://steamcommunity.com/id/_giosan/
 - 🚀 Battle: Bun#12752
 - 💬 Discord: _gio#4472
