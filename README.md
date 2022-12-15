@@ -10,6 +10,7 @@ I also play videogames, feel free to add me to Xbox Live, Steam or Battle.net, D
 
 Please, remember to introduce yourself and tell me your intentions (chat, play something, chill, etc), I tend to reject random invites.
 
+- Tumblr: https://evergreen2.tumblr.com
 - 🎋 Steam: https://steamcommunity.com/id/_giosan/
 - 🚀 Battle: Bun#12752
 - 💬 Discord: _gio#4472
@@ -17,9 +18,9 @@ Please, remember to introduce yourself and tell me your intentions (chat, play s
 
 Some things I enjoy working with include Django (Python), CI/CD tools to automate everything, and AI.
 
-- 🌱 I’m currently learning Machine Learning
+- 🌱 I’m currently learning NodeJS
 - 👯 I’m looking to collaborate on open source projects
-- 💬 Ask me about Python, Django, AI, infrastructure, and DevOps
+- 💬 Ask me about Python, Django, AI, infrastructure
 - 📫 How to reach me: gio@octocat.xyz
 
 
