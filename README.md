@@ -13,14 +13,12 @@ Please, remember to introduce yourself and tell me your intentions (chat, play s
 - 🎭 Tumblr: https://evergreen2.tumblr.com
 - 🎋 Steam: https://steamcommunity.com/id/_giosan/
 - 🚀 Battle: Bun#12752
-- 💬 Discord: _gio#4472
-- 🎮 Xbox: giosan8925
+- 💬 Discord: ThatGuyBun#4472
 
 Some things I enjoy working with include Django (Python), CI/CD tools to automate everything, and AI.
 
-- 🌱 I’m currently learning NodeJS
 - 👯 I’m looking to collaborate on open source projects
-- 💬 Ask me about Python, Django, AI, infrastructure
+- 💬 Ask me about Python, Django
 - 📫 How to reach me: gio@octocat.xyz
 
 
