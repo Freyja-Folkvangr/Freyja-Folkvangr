@@ -13,7 +13,7 @@ Please, remember to introduce yourself and tell me your intentions (chat, play s
 - 🎭 Tumblr: https://evergreen2.tumblr.com
 - 🎋 Steam: https://steamcommunity.com/id/_giosan/
 - 🚀 Battle: Bun#12752
-- 💬 Discord: ThatGuyBun#4472
+- 💬 Discord: ThatGuyBun
 
 Some things I enjoy working with include Django (Python), CI/CD tools to automate everything, and AI.
 
