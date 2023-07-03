@@ -14,6 +14,7 @@ Please, remember to introduce yourself and tell me your intentions (chat, play s
 - 🎋 Steam: https://steamcommunity.com/id/_giosan/
 - 🚀 Battle: Bun#12752
 - 💬 Discord: ThatGuyBun
+- 💬 Telegram: t.me/ThatGuyBun
 
 Some things I enjoy working with include Django (Python), CI/CD tools to automate everything, and AI.
 
