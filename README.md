@@ -4,5 +4,5 @@
 
 https://www.youtube.com/watch?v=T-G4RREuOUM
 
-### Sensitive stuff 👉🏻 email GPG Key here
+### email GPG Key here 👇🏻
 https://keys.openpgp.org/search?q=gio%40octocat.xyz
